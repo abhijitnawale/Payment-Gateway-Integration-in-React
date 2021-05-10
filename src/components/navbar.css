@@ -1,0 +1,74 @@
+.navbar-brand{
+ font-size: 2rem;
+ } 
+.homeclass{
+    font-size: 1.5rem;
+    margin-right: 200px;
+    
+
+}
+.carousel-inner{
+    height: 300px;
+    width: 100%;
+}
+.container-fluid{
+    height: 80px;
+}
+.carousel-inner{
+    height: 600px;
+}
+.carousel-content {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
+.donatebtn{
+    margin-left:620px;
+
+    position: absolute;
+
+    background-color:royalblue; /* Green */
+  border: none;
+  
+  
+  padding: 15px 80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 12px;
+} 
+#dnte{
+    color: ghostwhite;
+} 
+#sp{
+    color:steelblue;
+} 
+.text{
+    text-align: center;
+}
+#t1{
+    color:darkred;
+}
+#t2{
+    text-align: center;
+    margin-top: 80px;
+    color:orangered;
+
+}
+#t3{
+    color:teal;
+}
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: tomato;
+    color: white;
+  }
+.bg-light
+{
+    background-color: dimgrey;
+}  
